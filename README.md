@@ -1,2 +1,2 @@
-# Opengl-graphics
-Computer graphics with opengl, glsl, c++, etc.
+# OpenGL-Graphics
+Computer graphics with openGl, glsl, c++, etc.
